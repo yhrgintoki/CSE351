@@ -4,3 +4,4 @@ Course Description: Examines key computational abstraction levels below modern h
 
 I wrote answers of lab1 in C. I complie and run these code in attu (kind of virtual machine of Linux) and only code are posted
 
+I wrote answers of lab2 by using gdb debugger to check the assembly code of the executable file bomb
